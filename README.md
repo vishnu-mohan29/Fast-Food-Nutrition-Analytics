@@ -121,7 +121,7 @@ SQL queries were used to:
 ---
 
 ## 📷 Dashboard Preview
-![Nmap Scan](link-to-image)
+![Nmap Scan](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics/blob/main/Screenshot%20(96).png)
 **
 
 ---
