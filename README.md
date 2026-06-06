@@ -109,7 +109,7 @@ SQL queries were used to:
 * Categorize items into healthy vs unhealthy
 * Calculate calorie-to-protein efficiency
 
-![Vulnerability Report](link-to-image)
+![SQL analysis](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics/blob/main/analysis.sql)
 ---
 
 ## 🚀 Future Improvements
@@ -124,7 +124,7 @@ SQL queries were used to:
 ## 📷 Dashboard Preview
 ![Nmap Scan](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics/blob/main/Screenshot%20(96).png)
 **
-![Vulnerability Report](link-to-image)
+![pbix file](link-to-image)
 ---
 
 
