@@ -126,7 +126,4 @@ SQL queries were used to:
 
 ---
 
-## 👤 Author
 
-**Vishnu Mohan**
-Aspiring Data Analyst | SQL | Power BI | Excel
