@@ -124,6 +124,7 @@ SQL queries were used to:
 ## 📷 Dashboard Preview
 ![Nmap Scan](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics/blob/main/Screenshot%20(96).png)
 **
+Power BI Dashboard File
 ![pbix file](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics/blob/main/Fast%20Food%20Nutrition%20Analytics.pbix)
 ---
 
